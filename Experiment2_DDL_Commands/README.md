@@ -1,4 +1,4 @@
-[# Experiment 2: DDL Commands
+## Experiment 2: DDL Commands
 
 NAME: VIRUMAA HARISH M
 
