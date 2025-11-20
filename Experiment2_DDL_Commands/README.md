@@ -347,4 +347,4 @@ CREATE TABLE Invoices (
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
-](https://github.com/Virumaaharish/19CS404-DBMS-Lab-Manual/blob/main/Experiment1_ER_Diagram/problem_statement.md)
+
